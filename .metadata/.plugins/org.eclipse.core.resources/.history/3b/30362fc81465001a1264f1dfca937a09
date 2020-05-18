@@ -1,0 +1,5 @@
+package com.wipro.sales.dao;
+
+public class StockDao {
+
+}

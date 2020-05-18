@@ -1,0 +1,20 @@
+INDEX VERSION 1.127+E:\ProJect\EP MINI\.metadata\.plugins\org.eclipse.jdt.core
+960101978.index
+2647939440.index
+782782842.index
+2520332887.index
+4055685975.index
+2238702236.index
+1622388324.index
+1109536521.index
+2940237073.index
+308220998.index
+33266858.index
+2567973249.index
+1618875284.index
+2241718843.index
+3600571417.index
+3421948400.index
+126890010.index
+2165409961.index
+1120508220.index

@@ -1,0 +1,5 @@
+package com.wipro.sales.bean;
+
+public class Sales {
+
+}
